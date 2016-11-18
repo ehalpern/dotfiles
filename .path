@@ -1,2 +1,4 @@
 export GOPATH=~/go
 export PATH=~/bin:$GOPATH/bin:$PATH
+
+export CDPATH=export CDPATH=.:$HOME/go/src/github.com/attic-labs
