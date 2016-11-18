@@ -1,2 +1,5 @@
+
 launchctl setenv PATH $PATH
 launchctl setenv GOPATH $GOPATH
+
+alias emacs='open -a /Applications/Emacs.app $1'
